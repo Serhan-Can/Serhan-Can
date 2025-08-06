@@ -2,7 +2,8 @@
 <h1 align="center">⚡ Welcome to My GitHub Playground ⚡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7kZgNerA/giphy.gif" width="200" alt="pikachu dancing" />
+ <img src="https://media.giphy.com/media/ArLxZ4PebH2Ug/giphy.gif" width="200" alt="pikachu dancing" />
+
 </p>
 
 <p align="center">
